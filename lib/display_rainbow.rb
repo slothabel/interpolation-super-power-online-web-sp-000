@@ -8,5 +8,5 @@ color = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
   print "G: #{color[3]}, "
   print "B: #{color[4]}, "
   print "I: #{color[5]}, "
-  print "V: #{color[6]}, "
+  print "V: #{color[6]}"
 end
